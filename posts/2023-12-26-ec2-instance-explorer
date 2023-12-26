@@ -1,6 +1,0 @@
----
-title: "EC2 Instance Explorer"
-date: 2023-12-26
----
-# Introduction
-The proliferation of paarmeters that drive cloud compute cost can make it  difficult quickly ascertain the full cost of a solution.  I fiond myself building a solution, then costing it out, then coming back to optimize the costs by modifying some of the assumptions made early in the design process.
