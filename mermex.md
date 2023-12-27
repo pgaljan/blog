@@ -1,6 +1,10 @@
 # Mermex
 
-Mermaid enables diagram creation through a user-friendly text-based markup language, widely employed for real-time diagram generation within web interfaces. Additionally, it empowers system architects to automate diagram generation processes. [Mermex](https://github.com/pgaljan/mermex) is an Excel widget designed for the quick production of Mermaid markup language. It enhances diagram iteration by incorporating functionalities like titling and watermarking, facilitating convenient export and streamlined version tracking.
+Mermaid facilitates diagram creation using an intuitive text-based markup language, extensively utilized for real-time diagram generation in web interfaces. It serves as a powerful tool for system architects, enabling them to automate the diagram generation process.
+
+In product development, Mermaid plays a crucial role in visualizing workflows and operational sequences involving diverse systems and users. Given the iterative nature of these diagrams during the development cycle, the ability to render them directly from text becomes highly beneficial. This functionality allows users to easily track versions without resorting to screenshots. Moreover, Mermaid offers the capability to incorporate unique watermarks directly into the diagrams, enhancing version control and providing an extra layer of customization within the visual representations.
+
+[Mermex](https://github.com/pgaljan/mermex) is an Excel widget designed for authoring Mermaid flowcharts and sequence diagrams. It enhances diagram iteration by incorporating functionalities like titling and watermarking, facilitating convenient export and streamlined version tracking.  Additionally, Excel can take input from json or csv, allowing the consistent, error-free generation and iteration of very large Mermaid flowcharts.
 
 ### Key features:
 1. consistent format enforcement for fast authoring and re-authoring
