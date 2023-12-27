@@ -31,10 +31,10 @@ The table shows a hierarchical view of skus that meet the filter requirements.  
 
 [![dashboard][1]][2]
 
-[1]:  https://github.com/pgaljan/blog/assets/11296072/96d25f6e-bc5f-4cea-9815-24b7fe5b79b6
+[1]:  https://github.com/pgaljan/blog/assets/11296072/41521328-4d3f-41e0-b074-da810264a591
 [2]:  https://app.powerbi.com/view?r=eyJrIjoiYzRmOTY1MDYtZmE1ZC00MzA5LWFhMjYtMTIzM2Q0MWMwYjBlIiwidCI6ImZlNGQ5NDA3LWE5NzEtNDhjMy1hOTkzLTRjMmNiOGQ2MjM4NCIsImMiOjF9 "Redirect to homepage"
 
-To get refined numbers, you should as many of the contractual filters which can be reasonably determined including:
+Contractual filters are critical to get refined numbers.  Set as many as can be reasonably determined including:
 - Lease Contract Length (On Demand, 1yr, 3 yr)
 - Purchase Option (All upfront, no upfront, etc)
 - Tenancy (Dedicated, shared, reserved, etc)
