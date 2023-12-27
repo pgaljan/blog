@@ -42,6 +42,7 @@ Contractual filters are critical to get refined numbers.  Set as many as can be 
 - Offer class (convertible, standard)
 - Operating System (Windows, Linux, RHEL, etc)
 - Pre-Installed SW (SQL Web, Std, Ent)
+
 Once you have specified all your contractual filters, there should be a 1:1 ratio between the sku and offer count.
 
 If you use the dashboard in M365, it should refresh weekly sometime on Sunday.  I pull pricing data for US East, since that region is most likely to have all instance types, and relative prices based on location are relatively easy to derive.  I can look into adding more regions, or replacing US-East with another region.
