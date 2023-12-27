@@ -1,7 +1,8 @@
----
+layout: post
 title: "EC2 Instance Explorer"
 date: 2023-12-26
----
+categories: Solutions_architecture
+
 # Introduction
 EC2 Instance Explorer leverages the AWS EC2 bulk pricing API to permit a best-target selection of EC2 instances at any stage in the design phase.  I created it to allow me to quickly arrive at a 36-month price, so that it can be effectively compared to other consumption models.
 
