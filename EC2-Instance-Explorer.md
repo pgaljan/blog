@@ -5,7 +5,6 @@ The EC2 Instance Explorer leverages the AWS Bulk Pricing API to collect pricing 
 
 ## Approach
 The model pulls the data from the AWS Bulk API into a PowerBI instance running [locally](https://github.com/pgaljan/EC2-Instance-Explorer/blob/main/awsMappr.pbix) on the workstation or in the [M365 ecosystem](https://app.powerbi.com/view?r=eyJrIjoiYzRmOTY1MDYtZmE1ZC00MzA5LWFhMjYtMTIzM2Q0MWMwYjBlIiwidCI6ImZlNGQ5NDA3LWE5NzEtNDhjMy1hOTkzLTRjMmNiOGQ2MjM4NCIsImMiOjF9).  It performs some light ETL in PowerQuery/M to derive consistent filterable numeric values for values such as memory, GPU, and memory.  In DAX, helper tables are implemented to facilitate numeric filtering of Network and EBS throughput. Finally, there are simple DAX calculations to derive a three year value for each SKU, which are then rolled up and averaged:
-![demo](https://github.com/pgaljan/blog/assets/11296072/3ee9b0d7-0042-4882-bcec-82a4e799a41d)
 
 ```vb
 3yr hourly = IF(
