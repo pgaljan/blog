@@ -27,7 +27,7 @@ Avg Offer Price (3yr) =
 ```
 I primarily use this as a backend dataset for Excel queries - this is basically a clean, predictable, relatively fresh set of reference data.  But I've also published this dataset to a [dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzRmOTY1MDYtZmE1ZC00MzA5LWFhMjYtMTIzM2Q0MWMwYjBlIiwidCI6ImZlNGQ5NDA3LWE5NzEtNDhjMy1hOTkzLTRjMmNiOGQ2MjM4NCIsImMiOjF9) where the user can quickly get to a right-fit solution by filtering on resource parameters, (such as vCPU, memory, and network bandwith), and the contractual model (such as 1 or 3 year commits with variable upfront payments).  I've also added logic that allows the user to filter out solutions lacking guaranteed EBS or Network throughput.  
 
-The table shows a hierarchical view of skus that meet the filter requirements.  The average 3 year price is the 3 year total cost averaged across all the offers associated with the sku.  The numnber of offers corresponds to the number of different contractual models under which the sku can be consumed. 
+The table shows a hierarchical view of skus that meet the filter requirements.  The average 3 year price is the 3 year total cost averaged across all the offers associated with the sku.  The number of offers corresponds to the different contractual models under which the sku can be consumed. 
 
 [![dashboard][1]][2]
 
