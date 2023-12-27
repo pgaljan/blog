@@ -1,2 +1,2 @@
 ## About
-A place for side projects and common content.  I use cloudmappr.com as a demonstration site for much of the content on this blog.
+I maintain this for side projects and common content I use across my projects.  I will sometimes roll out proofs of concept and demos to cloudmappr.com.  Reach out if you'd like to collaborate.
