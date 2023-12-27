@@ -25,9 +25,14 @@ Avg Offer Price (3yr) =
   +
   AVERAGE(ec2_instances[3yr upfront])
 ```
-The resulting dashboard, the user can filter the entire US-East Catalog based on a handful of critical resource parameters, such as vCPU, memory, and network bandwith.  Additionally, the user can filter to those skus which have guaranteed EBS or Network throughput.  The user can quickly drill into a particular consumption model, with resaervations, tenancy etc.
+I primarily use this as a backend dataset for Excel queries - this is basically a clean, predictable, relatively fresh set of reference data.  But I've also published this dataset to a [dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzRmOTY1MDYtZmE1ZC00MzA5LWFhMjYtMTIzM2Q0MWMwYjBlIiwidCI6ImZlNGQ5NDA3LWE5NzEtNDhjMy1hOTkzLTRjMmNiOGQ2MjM4NCIsImMiOjF9) where the user can filter the US-East EC2 Catalog based on a handful of critical resource parameters, such as vCPU, memory, and network bandwith.  Additionally, the user can filter to those skus which have guaranteed EBS or Network throughput.  The user can quickly drill into a particular consumption model, with resaervations, tenancy etc.
 
-If you use the dashboard in M365, it should refresh weekly.  I pull pricing data for US East, as it's most likely to have all instance types, and relative prices based on location are relatively easy to derive.  I can look into adding more regions, or replacing US-East with another region.
+[![dashboard][1]][2]
+
+[1]:  https://github.com/pgaljan/blog/assets/11296072/c5c91c7f-daf8-4d74-bfb7-0415645f2f7f
+[2]:  https://app.powerbi.com/view?r=eyJrIjoiYzRmOTY1MDYtZmE1ZC00MzA5LWFhMjYtMTIzM2Q0MWMwYjBlIiwidCI6ImZlNGQ5NDA3LWE5NzEtNDhjMy1hOTkzLTRjMmNiOGQ2MjM4NCIsImMiOjF9 "Redirect to homepage"
+
+If you use the dashboard in M365, it should refresh weekly sometime on Sunday.  I pull pricing data for US East, since that region is most likely to have all instance types, and relative prices based on location are relatively easy to derive.  I can look into adding more regions, or replacing US-East with another region.
 
 ## Next Steps
-There are obvious next steps for a dashboard like this, but most of my immediate efforts are being placed in building excel-based solutions that leverage this data set so more effective comparative analysis can be done.  If you have suggestions or would like to collaborate, please reach out.
+There are obvious next steps for a dashboard like this - I could add other EC2 product families like NAT gateway, egress, transfer etc, but most of my immediate efforts are being placed in building excel-based solutions that build incrementally on this dataset.  If you'd like to collaborate or If you have suggestions, please reach out.
