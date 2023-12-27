@@ -4,7 +4,7 @@ Project success and failure is often hinges on operating cost and performance, s
 Architects can often build reliable bespoke models for each project, but data from live AWS APIs are difficult to use for broad "what-if" evaluation of architectural choices.  The EC2 Instance Explorer implements an approach that leverages the AWS Bulk Pricing API to ingest pricing data across all the EC2 instance SKUs operating in the US-East AWS region, normalizes to show 3 year spend, and presents the user with an online DAX data model for use with Excel, or in Power BI for a visually driven dashboard.  It is intended as a demonstration of approach which could be replicated not only across other AWS product families, but other clouds as well.
 
 ## Approach
-The EC2 Instance Explorer pulls the data from the AWS Bulk API into a PowerBI instance running locally on the workstation or in the M365 ecosystem.  It performs some light ETL in PowerQuery/M to derive consistent filterable numeric values for values such as memory, GPU, and memory.  In DAX, helper tables are implemented to facilitate numeric filtering of Network and EBS throughput. Finally, there are simple DAX calculations to derive a three year value for each SKU, which are then rolled up and averaged.
+The model pulls the data from the AWS Bulk API into a PowerBI instance running locally on the workstation or in the M365 ecosystem.  It performs some light ETL in PowerQuery/M to derive consistent filterable numeric values for values such as memory, GPU, and memory.  In DAX, helper tables are implemented to facilitate numeric filtering of Network and EBS throughput. Finally, there are simple DAX calculations to derive a three year value for each SKU, which are then rolled up and averaged:
 
 ```vb
 3yr hourly = IF(
