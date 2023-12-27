@@ -25,9 +25,9 @@ Avg Offer Price (3yr) =
   +
   AVERAGE(ec2_instances[3yr upfront])
 ```
-I primarily use this as a backend dataset for Excel queries - this is basically a clean, predictable, relatively fresh set of reference data.  But I've also published this dataset to a [dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzRmOTY1MDYtZmE1ZC00MzA5LWFhMjYtMTIzM2Q0MWMwYjBlIiwidCI6ImZlNGQ5NDA3LWE5NzEtNDhjMy1hOTkzLTRjMmNiOGQ2MjM4NCIsImMiOjF9) where the user can quickly get to a right-fit solution by filtering on resource parameters, such as vCPU, memory, and network bandwith, and consumption model, such as 1 or 3 year commits with variable upfront payments.  I've also added logic that allows the user can filter out solutions lacking guaranteed EBS or Network throughput.  
+I primarily use this as a backend dataset for Excel queries - this is basically a clean, predictable, relatively fresh set of reference data.  But I've also published this dataset to a [dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzRmOTY1MDYtZmE1ZC00MzA5LWFhMjYtMTIzM2Q0MWMwYjBlIiwidCI6ImZlNGQ5NDA3LWE5NzEtNDhjMy1hOTkzLTRjMmNiOGQ2MjM4NCIsImMiOjF9) where the user can quickly get to a right-fit solution by filtering on resource parameters, (such as vCPU, memory, and network bandwith), and the contractual model (such as 1 or 3 year commits with variable upfront payments).  I've also added logic that allows the user to filter out solutions lacking guaranteed EBS or Network throughput.  
 
-The table shows a hierarchical view of skus that meet the filter requirements.  The average 3 year price is the 3 year total cost averaged across all the offers associated with the sku.  The numnber of offers corresponds to the number of different consumption models under which the sku can be consumed. 
+The table shows a hierarchical view of skus that meet the filter requirements.  The average 3 year price is the 3 year total cost averaged across all the offers associated with the sku.  The numnber of offers corresponds to the number of different contractual models under which the sku can be consumed. 
 
 [![dashboard][1]][2]
 
@@ -41,6 +41,7 @@ Contractual filters are critical to get refined numbers.  Set as many as can be 
 - Offer class (convertible, standard)
 - Operating System (Windows, Linux, RHEL, etc)
 - Pre-Installed SW (SQL Web, Std, Ent)
+Once you have specified all your contractual filters, there should be a 1:1 ratio between the sku and offer count.
 
 If you use the dashboard in M365, it should refresh weekly sometime on Sunday.  I pull pricing data for US East, since that region is most likely to have all instance types, and relative prices based on location are relatively easy to derive.  I can look into adding more regions, or replacing US-East with another region.
 
