@@ -1,3 +1,3 @@
 # Software Lifecycle Navigator
 coming soon
-![demo](https://github.com/pgaljan/blog/assets/11296072/ccd4f595-29ea-4293-a045-1573c62b2b93)
+![demo2](https://github.com/pgaljan/blog/assets/11296072/034e0696-be08-4541-bf90-3aae0b00e6ec)
