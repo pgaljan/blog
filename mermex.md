@@ -7,9 +7,10 @@ Visualization plays a crucial role in product development, as workflows and oper
 Although very powerful and relatively simple, Mermaid is not intended for direct authoring.  [Mermex](https://github.com/pgaljan/mermex) is an Excel widget designed for authoring Mermaid flowcharts and sequence diagrams. It enhances diagram iteration by incorporating functionalities like titling and watermarking, facilitating convenient export and streamlined version tracking.  Additionally, Excel can take input from json or csv, allowing the consistent, error-free generation and iteration of very large Mermaid flowcharts.
 
 ### Key features:
-1. consistent format enforcement for fast authoring and re-authoring
+1. integrate with from virtually any data source
+1. consistent syntax enforcement for fast authoring and re-authoring
 2. loose hashing to quickly identify changed diagrams without referencing the output binary
-3. Title and hash display within the diagram to trace iterations over time
+3. watermarked diagrams to trace iterations over time
 
 ![mermex_demo](https://github.com/pgaljan/blog/assets/11296072/4d8172eb-8e95-4670-88c6-76392bb7e27c)
 
