@@ -3,6 +3,12 @@ Project success and failure often pivot on operating costs and performance, maki
 
 The EC2 Instance Explorer leverages the AWS Bulk Pricing API to collect pricing data from all EC2 instance SKUs in the US-East AWS region. It then standardizes this data to display a three-year spending projection and provides users with an online DAX data model compatible with Excel or Power BI for creating visually-driven dashboards. This tool serves as a demonstration of an approach that could be replicated across various AWS product families, and the normalization process facilitates comparison across cloud providers and on-prem approaches.
 
+[![dashboard][1]][2]
+
+[1]:  https://github.com/pgaljan/blog/assets/11296072/54e107ab-46ea-43e7-ac21-60f318ab5120
+[2]:  https://app.powerbi.com/view?r=eyJrIjoiYzRmOTY1MDYtZmE1ZC00MzA5LWFhMjYtMTIzM2Q0MWMwYjBlIiwidCI6ImZlNGQ5NDA3LWE5NzEtNDhjMy1hOTkzLTRjMmNiOGQ2MjM4NCIsImMiOjF9 "Try out the live dashboard"
+##### [Live demo](https://app.powerbi.com/view?r=eyJrIjoiYzRmOTY1MDYtZmE1ZC00MzA5LWFhMjYtMTIzM2Q0MWMwYjBlIiwidCI6ImZlNGQ5NDA3LWE5NzEtNDhjMy1hOTkzLTRjMmNiOGQ2MjM4NCIsImMiOjF9)
+
 ## Approach
 The model pulls the data from the AWS Bulk API into a PowerBI instance running [locally](https://github.com/pgaljan/EC2-Instance-Explorer/blob/main/awsMappr.pbix) on the workstation or in the [M365 ecosystem](https://app.powerbi.com/view?r=eyJrIjoiYzRmOTY1MDYtZmE1ZC00MzA5LWFhMjYtMTIzM2Q0MWMwYjBlIiwidCI6ImZlNGQ5NDA3LWE5NzEtNDhjMy1hOTkzLTRjMmNiOGQ2MjM4NCIsImMiOjF9).  It performs some light ETL in PowerQuery/M to derive consistent filterable numeric values for values such as memory, GPU, and memory.  In DAX, helper tables are implemented to facilitate numeric filtering of Network and EBS throughput. Finally, there are simple DAX calculations to derive a three year value for each SKU, which are then rolled up and averaged:
 
@@ -29,11 +35,6 @@ I primarily use this as a backend dataset for Excel queries - this is basically 
 
 The table shows a hierarchical view of skus that meet the filter requirements.  The average 3 year price is the 3 year total cost averaged across all the offers associated with the sku.  The number of offers corresponds to the different contractual models under which the sku can be consumed. 
 
-[![dashboard][1]][2]
-
-[1]:  https://github.com/pgaljan/blog/assets/11296072/54e107ab-46ea-43e7-ac21-60f318ab5120
-[2]:  https://app.powerbi.com/view?r=eyJrIjoiYzRmOTY1MDYtZmE1ZC00MzA5LWFhMjYtMTIzM2Q0MWMwYjBlIiwidCI6ImZlNGQ5NDA3LWE5NzEtNDhjMy1hOTkzLTRjMmNiOGQ2MjM4NCIsImMiOjF9 "Try out the live dashboard"
-##### [Live demo](https://app.powerbi.com/view?r=eyJrIjoiYzRmOTY1MDYtZmE1ZC00MzA5LWFhMjYtMTIzM2Q0MWMwYjBlIiwidCI6ImZlNGQ5NDA3LWE5NzEtNDhjMy1hOTkzLTRjMmNiOGQ2MjM4NCIsImMiOjF9)
 
 Contractual filters are critical to get refined numbers.  Set as many as can be reasonably determined including:
 - Lease Contract Length (On Demand, 1yr, 3 yr)
