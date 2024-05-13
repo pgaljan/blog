@@ -2,42 +2,4 @@
 Blog posts, tools and projects that make my day to day work more efficient, consistent, and repeatable.  I sometimes roll out proofs of concept and demos to cloudmappr.com.  Reach out if you'd like to collaborate.
 
 ### My experience
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
-timeline
-
-1996-2000 <br>Intelligence Analyst <br> DynCorp
-	: <br> Remote Sensing <br> Data Fusion
-	: ArcGIS <br> MatLab
-	: Analysis frameworks
-
-2000-2003 <br>IT Operations <br> SAIC
-	: Supervised ML <br> Large scale storage <br> Edge networking
-	: Solaris <br> Oracle <br> Cisco
-	: Operations Mgmt <br> Personnel Mgmt
-
-2003-2007 <br>IT Architecture <br> NetApp Federal
-	: Large scale storage <br> Resilient compute <br> Far Edge
-	: NetApp <br> Oracle <br> Exchange <br> SQL
-	: Solution Arch <br> Communications
-
-2008-2012 <br>IT Architecture <br> EMC Commercial
-	: Large scale storage <br> Messaging <br> Data Mgmt 
-	: EMC <br> SQL <br> ESX <br> Exchange
-	: Solution Design <br> Community driven sales
-
-2012-2016 <br>Presales Mgmt<br> EMC Global
-	: Sales mgmt <br> Solutions Development
-	: EMC  <br> Oracle <br> Microsoft <br> SAP
-	: Personnel Mgmt <br>  Sales Mgmt
-
-2017-2019 <br>Product Dev<br> Dell Technologies
-	: Product Mgmt <br> Engineering Mgmt
-	: Azure Resource Manager <br> PowerEdge <br> PowerSwitch
-	: Multi-function mgmt <br> Rugged design
-
-2019- <br>Product Mgmt <br>Dell Technologies
-  : Product Mgmt <br> Architecture
-  : Kubernetes <br> API design <br> DAX/M <br> geoJSON
-  : Product design <br> Offer lifecycle
-```
+[![](https://mermaid.ink/img/pako:eNqFVU1v2zgQ_SuEgMAXx7Y-YkdCsYCROEV2rSYb9VAUvtDUSCIqkQJFJXUN__cOKdqOty32IkgzwzfvDWdGe4_JHLzEu7rac8F1QvZkVMtyDa9QjxIyymHbl6MxGekKGrAWqr6NyIEcrq42QvMGai5gIzbCj-P5dTCbzciHrfrrUWioa16CYECWgta7TlsHud-JO6laPILprOUFGqmBZCA6LkoXRTUlD33HpRgil4p9fMwGZ0r1mm6d3WLzjhSKNvAm1bfOsDFEDJtwYPOZPLWgqEa4bsDIlo93A0LWo-uVd5CTdD0411SVQDpGa3xqqSh-WccqxzcB2uRBrg5A1lRxh_ukKKtd9B3vmBxi3qVPy8aV4hlUJ4WA2toc7dDQXhxpo-yKa2C6Vw70E-hl25IHyBGxHtD_yPcFOl5zEJow2bS9duYHqqyU4bRD_IX-6jurqDhCZf-uT3J7o8Ryc0Jl0_SCs0GhE3KLQvzgz0JW6Z09CIrx_xWSQtfR8rI9bCGHcwbryNKhZ18uVfyH_D1WphQX9PWO5Iq_giAd5ncy_MDImNvAZwXWYzOfNHys5fbIP7Pu5nTDx3Qd5sORkm2Dd3Gm_GvNU86U7GRxPL98HqIvW2Vwumzn3vEXhmvsuMq8Z9rkHSqG40g-A6uExAHnVp7BdWFn1JXAMgMoU2sHbcbsh7k3bCfZK5zolAq8GuXaWL6BspNx_szeuGbVcDbta82vi14wW_lzdV76ssSpy-1VOAnx9QX9E6_f8Cfkd_zfN9oQ80-_BYVDC25El8-PLqdrpuWXaTq8liD_zp4-XWK_j30qCpRd8wLYDi9tI7yxhx3cUJ7jGt2bgxvPLsuNl-BrIbFn9MYbO4_9MI4K9UiCe6TON95GHBCH9lpmO8G8RKsexl7f5lTDPaclrjYvKWjdnayrnON4nIy1pLgOvGTv6V1rFnrJO42QTIqCl8beqxrNldZtl0ynxj0pua767QQ3w7TjeUWVrl7j-XQezG9pEMJ8EdKbMMzZ1o9viyDyi3yB40C9w2Hsgc2fDn8P-xMZey0VJtN3L_Hjm0noz3wfN5kfRrMgHHs7LwlmwSRehHHk-_ObIIpnC0T6ISWKm03mYTSPbv0oCqIbP1osLN5X6zTlOPwEGxU2-Q?type=png)](https://mermaid.live/edit#pako:eNqFVU1v2zgQ_SuEgMAXx7Y-YkdCsYCROEV2rSYb9VAUvtDUSCIqkQJFJXUN__cOKdqOty32IkgzwzfvDWdGe4_JHLzEu7rac8F1QvZkVMtyDa9QjxIyymHbl6MxGekKGrAWqr6NyIEcrq42QvMGai5gIzbCj-P5dTCbzciHrfrrUWioa16CYECWgta7TlsHud-JO6laPILprOUFGqmBZCA6LkoXRTUlD33HpRgil4p9fMwGZ0r1mm6d3WLzjhSKNvAm1bfOsDFEDJtwYPOZPLWgqEa4bsDIlo93A0LWo-uVd5CTdD0411SVQDpGa3xqqSh-WccqxzcB2uRBrg5A1lRxh_ukKKtd9B3vmBxi3qVPy8aV4hlUJ4WA2toc7dDQXhxpo-yKa2C6Vw70E-hl25IHyBGxHtD_yPcFOl5zEJow2bS9duYHqqyU4bRD_IX-6jurqDhCZf-uT3J7o8Ryc0Jl0_SCs0GhE3KLQvzgz0JW6Z09CIrx_xWSQtfR8rI9bCGHcwbryNKhZ18uVfyH_D1WphQX9PWO5Iq_giAd5ncy_MDImNvAZwXWYzOfNHys5fbIP7Pu5nTDx3Qd5sORkm2Dd3Gm_GvNU86U7GRxPL98HqIvW2Vwumzn3vEXhmvsuMq8Z9rkHSqG40g-A6uExAHnVp7BdWFn1JXAMgMoU2sHbcbsh7k3bCfZK5zolAq8GuXaWL6BspNx_szeuGbVcDbta82vi14wW_lzdV76ssSpy-1VOAnx9QX9E6_f8Cfkd_zfN9oQ80-_BYVDC25El8-PLqdrpuWXaTq8liD_zp4-XWK_j30qCpRd8wLYDi9tI7yxhx3cUJ7jGt2bgxvPLsuNl-BrIbFn9MYbO4_9MI4K9UiCe6TON95GHBCH9lpmO8G8RKsexl7f5lTDPaclrjYvKWjdnayrnON4nIy1pLgOvGTv6V1rFnrJO42QTIqCl8beqxrNldZtl0ynxj0pua767QQ3w7TjeUWVrl7j-XQezG9pEMJ8EdKbMMzZ1o9viyDyi3yB40C9w2Hsgc2fDn8P-xMZey0VJtN3L_Hjm0noz3wfN5kfRrMgHHs7LwlmwSRehHHk-_ObIIpnC0T6ISWKm03mYTSPbv0oCqIbP1osLN5X6zTlOPwEGxU2-Q)
