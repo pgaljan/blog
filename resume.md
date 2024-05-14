@@ -66,5 +66,7 @@ timeline
 ### Current Interests
 > - FinOps intelligence and modeling
 > - Programmable diagramming
-> - Software commodity management
+> - geoJSON techniques
 > - Data visualization techniques
+> - Hardware/Software commodity management
+> - Process engineering
