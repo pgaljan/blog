@@ -68,5 +68,3 @@ timeline
 > - Programmable diagramming
 > - Software commodity management
 > - Data visualization techniques
-> - 
-> - 
