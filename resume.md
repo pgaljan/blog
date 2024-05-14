@@ -32,7 +32,7 @@ timeline
     : Product Mgmt <br> Engineering Mgmt
     : Azure Hybrid <br> PowerEdge HCI<br> Nutanix
     : Multi-function mgmt <br> Rugged design <br> Commodity mgmt
-2019- <br>Product Mgmt <br>Dell Technologies
+2019-current <br>Product Mgmt <br>Dell Technologies
   : Product Mgmt <br> Architecture
   : Kubernetes <br> API design <br> DAX/M <br> geoJSON
   : Product design <br> Offer lifecycle
