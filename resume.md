@@ -3,7 +3,7 @@
 [Paul Galjan](mailto:galjan@gmail.com)                      
 -------------------
 ### Summary
-Technologist with proven experience managing the IT lifecycle across a broad set of domains and applications.  Applies robust analytical approaches to develop strategic consensus for executable technical roadmaps for products and solutions ranging from late-research to mid-development stages and across market scale points.
+Experienced Technologist proficient in overseeing the entire IT lifecycle across diverse domains and applications. Utilizes strong analytical skills to establish strategic alignment and consensus for actionable technical roadmaps, spanning from late-research to mid-development stages and across various market scales.
 #### Career Path
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
