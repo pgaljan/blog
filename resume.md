@@ -4,7 +4,7 @@
 -------------------
 ### Summary
 Experienced technologist proficient in overseeing the entire IT lifecycle across diverse domains and applications. Utilizes strong analytical skills to establish strategic alignment and consensus for actionable technical roadmaps, spanning from late-research to mid-development stages across a variety of market scales.
-#### Career Path
+
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
@@ -63,3 +63,10 @@ timeline
 > - Provided decision support and course-of-action analysis for DoD backstopping during the negotiation and implementation of the Comprehensive Nuclear-Test-Ban Treaty [verification regime](https://www.ctbto.org/our-work/verification-regime)
 > - Developed protocols, processes and systems to monitor sensor availability for the [International Monitoring System](https://www.ctbto.org/our-work/ims-map)
 
+### Current Interests
+> - FinOps intelligence and modeling
+> - Programmable diagramming
+> - Software commodity management
+> - Data visualization techniques
+> - 
+> - 
