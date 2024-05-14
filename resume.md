@@ -4,7 +4,7 @@
 -------------------
 ### Summary
 Technologist with proven experience managing the IT lifecycle across a broad set of domains and applications.  Applies robust analytical approaches to develop strategic consensus for executable technical roadmaps for products and solutions ranging from late-research to mid-development stages and across market scale points.
-#### Career Path
+
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
