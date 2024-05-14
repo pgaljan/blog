@@ -54,13 +54,12 @@ timeline
 #####  2004 - 2007 | Presales Engineering | NetApp
 > - Led technical sales efforts and proofs of concept for large opportunities across NetApp Federal
 > - Designed NetApp storage architectures to address DISA ESS2 contract, among many others
-> - Developed tool to automate collection of data-intensive application topology and performance data used across 1000s of customers
 
 #####  2000 - 2003 | IT Operations | SAIC
 > - DevOps/infrastructure lead in datacenter operated for supervised machine learning of measures and signature intelligence data
 > - Improved data center availability 20x in 12 months 
 
 #####  1996 - 2000 | Intelligence Analyst | DynCorp
-> - Provided general decision support and course-of-action analysis for DoD backstopping in the negotiation and implementation of the Comprehensive Test Ban Treaty
-> - Developed protocols, processes and systems to monitor sensor availability for the International Monitoring System
+> - Provided general decision support and course-of-action analysis for DoD backstopping in the negotiation and implementation of the [Comprehensive Nuclear-Test-Ban Treaty](https://en.wikipedia.org/wiki/Comprehensive_Nuclear-Test-Ban_Treaty)
+> - Developed protocols, processes and systems to monitor sensor availability for the [International Monitoring System](https://www.ctbto.org/our-work/international-monitoring-system)
 
