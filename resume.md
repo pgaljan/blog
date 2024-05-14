@@ -64,9 +64,9 @@ timeline
 > - Developed protocols, processes and systems to monitor sensor availability for the [International Monitoring System](https://www.ctbto.org/our-work/ims-map)
 
 ### Current Interests
-> - FinOps intelligence and modeling
-> - Programmable diagramming
-> - geoJSON techniques
 > - Data visualization & aggregation
-> - Hardware/Software commodity management
+> - geoJSON techniques
+> - Programmable diagramming
+> - FinOps intelligence and modeling
+> - Commodity management (HW/SW)
 > - Process engineering
