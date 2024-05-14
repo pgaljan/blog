@@ -4,7 +4,7 @@
 -------------------
 ### Summary
 Technologist with proven experience managing the IT lifecycle across a broad set of domains and applications.  Applies robust analytical approaches to develop strategic consensus for executable technical roadmaps for products and solutions ranging from late-research to mid-development stages and across market scale points.
-
+#### Career Path
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
@@ -39,9 +39,9 @@ timeline
 ```
 ### Experience
 #####  2017 - current | Product Management | Dell Technologies 
-> - Developed observability, business logic, GIS, and serviceability strategies for NativeEdge Orchestrator
-> - Overhauled deployment experience for HCI product, enabling self-service onboarding across a product with >$2B ARR
-> - Responsible for the introduction first net new product line in the combined Dell/EMC entity, attaining #1 volume and margin share owner in the space with over $100M revenue
+> - Developed observability, business logic, GIS, and serviceability strategies for [NativeEdge Orchestrator](https://infohub.delltechnologies.com/en-us/l/introduction-to-the-dell-nativeedge-software-platform-white-paper-3/nativeedge-orchestrator-5/)
+> - Overhauled [deployment experience](https://vxrailconfiguration.dell.com/getStarted) and enabled self-service onboarding across a product with >$2B ARR
+> - Responsible for the introduction first [net new product line](https://www.dell.com/en-us/dt/hyperconverged-infrastructure/microsoft-azure-stack/microsoft-azure-stack-hub.htm#tab0=0) in the combined Dell/EMC entity, attaining #1 volume and margin share owner in the space with over $100M revenue
 
 #####  2012 - 2016 | Presales Leadership | EMC
 > - Recruited and managed global team of highly specialized technologists in the areas of high-volume data platforms, ERP, CRP, and enterprise communications
@@ -53,13 +53,14 @@ timeline
 
 #####  2004 - 2007 | Presales Engineering | NetApp
 > - Led technical sales efforts and proofs of concept for large opportunities across NetApp Federal
-> - Designed NetApp storage architectures to address DISA ESS2 contract, among many others
+> - Designed NetApp storage architectures to address [DISA ESS2](https://www.wwt.com/press-release/wwt-awarded-disa-enterprise-storage-services-ii-contract) contract, among many others
+> - Developed tool to automate collection of data-intensive application topology and performance data used across 1000s of customers
 
 #####  2000 - 2003 | IT Operations | SAIC
-> - DevOps/infrastructure lead in datacenter operated for supervised machine learning of measures and signature intelligence data
-> - Improved availability 20x in 12 months, while reducing capex and opex 4x
+> - DevOps/infrastructure lead for supervised machine learning on open source [MASINT data](https://apps.dtic.mil/sti/tr/pdf/ADP204402.pdf)
+> - Improved data center availability 20x over 18 months, reducing capital and operational expeditures 4x
 
 #####  1996 - 2000 | Intelligence Analyst | DynCorp
-> - Provided general decision support and course-of-action analysis for DoD backstopping in the negotiation and implementation of the [Comprehensive Nuclear-Test-Ban Treaty](https://en.wikipedia.org/wiki/Comprehensive_Nuclear-Test-Ban_Treaty)
-> - Developed protocols, processes and systems to monitor sensor availability for the [International Monitoring System](https://www.ctbto.org/our-work/international-monitoring-system)
+> - Provided general decision support and course-of-action analysis for DoD backstopping in the negotiation and implementation of the Comprehensive Nuclear-Test-Ban Treaty [verification regime](https://www.ctbto.org/our-work/verification-regime)
+> - Developed protocols, processes and systems to monitor sensor availability for the [International Monitoring System](https://www.ctbto.org/our-work/ims-map)
 
