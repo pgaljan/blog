@@ -2,15 +2,10 @@
 ------------------
 [Paul Galjan](mailto:galjan@gmail.com)                      
 -------------------
-### Summary
-Technologist with proven experience managing the IT lifecycle across a broad set of domains and applications.  Applies robust analytical approaches to develop strategic consensus for executable technical roadmaps for products and solutions ranging from late-research to mid-development stages and across market scale points.
-#### Current interests
-> - Data visualization & aggregation
-> - geoJSON techniques
-> - Programmable diagramming
-> - FinOps intelligence and modeling
-> - HW/SW Commodity management
-> - Process engineering
+#### Summary
+ > Technologist with proven experience managing the IT lifecycle across a broad set of domains and applications.  Applies robust analytical approaches to develop strategic consensus for executable technical roadmaps for products and solutions ranging from late-research to mid-development stages and across market scale points|
+
+
 #### Career Path
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
@@ -47,7 +42,7 @@ timeline
 ### Experience
 #####  2020 - current | Product Management | Dell Technologies 
 > - Developed observability, business logic, GIS, and serviceability strategies for [NativeEdge Orchestrator](https://infohub.delltechnologies.com/en-us/l/introduction-to-the-dell-nativeedge-software-platform-white-paper-3/nativeedge-orchestrator-5/)
-> - Overhauled [deployment experience](https://vxrailconfiguration.dell.com/getStarted) and enabled self-service onboarding across a product with >$2B ARR
+> - Overhauled [deployment and onboarding experience](https://www.dell.com/support/manuals/en-us/vxrail-p-series-nodes/vxr_p_vxrail_dep_guide/vxrail-configuration-portal-overview?guid=guid-38255947-50e0-446c-bfde-d9d83e1dc492&lang=en-us) across a product with >$2B ARR
 
 #####  2017 - 2020 | Product Leadership | Dell Technologies 
 > - Led global team of product managers and engineers, introducing the first [new product offering](https://www.dell.com/en-us/dt/hyperconverged-infrastructure/microsoft-azure-stack/microsoft-azure-stack-hub.htm#tab0=0) in the combined Dell/EMC entity
@@ -73,3 +68,10 @@ timeline
 > - Provided decision support and course-of-action analysis for DoD backstopping during the negotiation and implementation of the Comprehensive Nuclear-Test-Ban Treaty [verification regime](https://www.ctbto.org/our-work/verification-regime)
 > - Developed protocols, processes and systems to monitor sensor availability for the [International Monitoring System](https://www.ctbto.org/our-work/ims-map)
 
+#### Current interests
+> - Data visualization & aggregation
+> - geoJSON techniques
+> - Programmable diagramming
+> - FinOps intelligence and modeling
+> - HW/SW Commodity management
+> - Process engineering
