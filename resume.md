@@ -67,6 +67,6 @@ timeline
 > - FinOps intelligence and modeling
 > - Programmable diagramming
 > - geoJSON techniques
-> - Data visualization techniques
+> - Data visualization & aggregation
 > - Hardware/Software commodity management
 > - Process engineering
