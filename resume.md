@@ -2,22 +2,16 @@
 ------------------
 [Paul Galjan](mailto:galjan@gmail.com)                      
 -------------------
-
-| Summary | 
------------ |
- Experienced technologist proficient in overseeing the entire IT lifecycle across diverse domains and applications. Utilizes strong analytical skills to establish strategic alignment and consensus for actionable technical roadmaps, spanning from late-research to mid-development stages across a variety of market scales.
-
-| Current Interests | 
------------ |
-   - Data visualization & aggregation
-  - geoJSON techniques
-  - Programmable diagramming
-  - FinOps intelligence and modeling
-  - Commodity management (HW/SW)
-  - Process engineering
-
-| Career Path | 
------------ |
+### Summary
+Technologist with proven experience managing the IT lifecycle across a broad set of domains and applications.  Applies robust analytical approaches to develop strategic consensus for executable technical roadmaps for products and solutions ranging from late-research to mid-development stages and across market scale points.
+#### Current interests
+> - Data visualization & aggregation
+> - geoJSON techniques
+> - Programmable diagramming
+> - FinOps intelligence and modeling
+> - HW/SW Commodity management
+> - Process engineering
+#### Career Path
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
@@ -33,7 +27,7 @@ timeline
     : Large scale storage <br> Resilient compute <br> Far Edge
     : NetApp <br> Oracle <br> Exchange <br> SQL
     : Solution Arch <br> Communications
-2008-2012 <br>IT Architecture <br>EMC Commercial
+2007-2012 <br>IT Architecture <br>EMC Commercial
     : Large scale storage <br> Messaging <br> Data Mgmt
     : EMC <br> SQL <br> ESX <br> Exchange
     : Solution Design <br> Field marketing
@@ -41,22 +35,23 @@ timeline
     : Sales mgmt <br> Solutions development
     : EMC  <br> Oracle <br> Microsoft <br> SAP
     : Personnel mgmt <br>  Sales mgmt <br>Partner mgmt
-2017-2019 <br>Product Dev<br>Dell Technologies
+2017-2010 <br>Product Dev<br>Dell Technologies
     : Product Mgmt <br> Engineering Mgmt
     : Azure Hybrid <br> PowerEdge HCI<br> Nutanix
     : Multi-function mgmt <br> Rugged design <br> Commodity mgmt
-2019-current <br>Product Mgmt <br>Dell Technologies
+2019- <br>Product Mgmt <br>Dell Technologies
   : Product Mgmt <br> Architecture
   : Kubernetes <br> API design <br> DAX/M <br> geoJSON
   : Product design <br> Offer lifecycle
 ```
-| Experience | 
------------ |
-
-#####  2017 - current | Product Management | Dell Technologies 
+### Experience
+#####  2020 - current | Product Management | Dell Technologies 
 > - Developed observability, business logic, GIS, and serviceability strategies for [NativeEdge Orchestrator](https://infohub.delltechnologies.com/en-us/l/introduction-to-the-dell-nativeedge-software-platform-white-paper-3/nativeedge-orchestrator-5/)
 > - Overhauled [deployment experience](https://vxrailconfiguration.dell.com/getStarted) and enabled self-service onboarding across a product with >$2B ARR
-> - Introduced first [net new product line](https://www.dell.com/en-us/dt/hyperconverged-infrastructure/microsoft-azure-stack/microsoft-azure-stack-hub.htm#tab0=0) in the combined Dell/EMC entity, attaining #1 volume and margin share owner in the space with over $100M revenue
+
+#####  2017 - 2020 | Product Leadership | Dell Technologies 
+> - Led global team of product managers and engineers, introducing the first [new product offering](https://www.dell.com/en-us/dt/hyperconverged-infrastructure/microsoft-azure-stack/microsoft-azure-stack-hub.htm#tab0=0) in the combined Dell/EMC entity
+> - Attained #1 volume and margin share owner in the space with over $100M revenue
 
 #####  2012 - 2016 | Presales Leadership | EMC
 > - Recruited and managed global team of highly specialized technologists in the areas of high-volume data platforms, ERP, CRP, and enterprise communications
@@ -68,12 +63,13 @@ timeline
 
 #####  2004 - 2007 | Presales Engineering | NetApp
 > - Developed NetApp storage patterns and architectures to address large contracts such as [DISA ESS2](https://www.wwt.com/press-release/wwt-awarded-disa-enterprise-storage-services-ii-contract) 
-> - Designated SME for challenging OLTP workloads and storage protocols
+> - Designated SME for challenging workloads and storage protocols
 
 #####  2000 - 2003 | IT Operations | SAIC
 > - DevOps/infrastructure lead for supervised machine learning on open source [MASINT data](https://apps.dtic.mil/sti/tr/pdf/ADP204402.pdf)
-> - Improved data center availability 20x over 18 months, reducing capital and operational expeditures 4x
+> - Improved data center availability 12x over 18 months, reducing capital and operational expeditures 3x
 
 #####  1996 - 2000 | Intelligence Analyst | DynCorp
 > - Provided decision support and course-of-action analysis for DoD backstopping during the negotiation and implementation of the Comprehensive Nuclear-Test-Ban Treaty [verification regime](https://www.ctbto.org/our-work/verification-regime)
 > - Developed protocols, processes and systems to monitor sensor availability for the [International Monitoring System](https://www.ctbto.org/our-work/ims-map)
+
