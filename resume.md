@@ -57,7 +57,7 @@ timeline
 
 #####  2000 - 2003 | IT Operations | SAIC
 > - DevOps/infrastructure lead in datacenter operated for supervised machine learning of measures and signature intelligence data
-> - Improved data center availability 20x in 12 months 
+> - Improved availability 20x in 12 months, while reducing capex and opex 4x
 
 #####  1996 - 2000 | Intelligence Analyst | DynCorp
 > - Provided general decision support and course-of-action analysis for DoD backstopping in the negotiation and implementation of the [Comprehensive Nuclear-Test-Ban Treaty](https://en.wikipedia.org/wiki/Comprehensive_Nuclear-Test-Ban_Treaty)
