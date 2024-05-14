@@ -2,9 +2,22 @@
 ------------------
 [Paul Galjan](mailto:galjan@gmail.com)                      
 -------------------
-### Summary
-Experienced technologist proficient in overseeing the entire IT lifecycle across diverse domains and applications. Utilizes strong analytical skills to establish strategic alignment and consensus for actionable technical roadmaps, spanning from late-research to mid-development stages across a variety of market scales.
 
+| Summary | 
+----------- |
+ Experienced technologist proficient in overseeing the entire IT lifecycle across diverse domains and applications. Utilizes strong analytical skills to establish strategic alignment and consensus for actionable technical roadmaps, spanning from late-research to mid-development stages across a variety of market scales.
+
+| Current Interests | 
+----------- |
+   - Data visualization & aggregation
+  - geoJSON techniques
+  - Programmable diagramming
+  - FinOps intelligence and modeling
+  - Commodity management (HW/SW)
+  - Process engineering
+
+| Career Path | 
+----------- |
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
@@ -37,7 +50,9 @@ timeline
   : Kubernetes <br> API design <br> DAX/M <br> geoJSON
   : Product design <br> Offer lifecycle
 ```
-### Experience
+| Experience | 
+----------- |
+
 #####  2017 - current | Product Management | Dell Technologies 
 > - Developed observability, business logic, GIS, and serviceability strategies for [NativeEdge Orchestrator](https://infohub.delltechnologies.com/en-us/l/introduction-to-the-dell-nativeedge-software-platform-white-paper-3/nativeedge-orchestrator-5/)
 > - Overhauled [deployment experience](https://vxrailconfiguration.dell.com/getStarted) and enabled self-service onboarding across a product with >$2B ARR
@@ -62,11 +77,3 @@ timeline
 #####  1996 - 2000 | Intelligence Analyst | DynCorp
 > - Provided decision support and course-of-action analysis for DoD backstopping during the negotiation and implementation of the Comprehensive Nuclear-Test-Ban Treaty [verification regime](https://www.ctbto.org/our-work/verification-regime)
 > - Developed protocols, processes and systems to monitor sensor availability for the [International Monitoring System](https://www.ctbto.org/our-work/ims-map)
-
-### Current Interests
-> - Data visualization & aggregation
-> - geoJSON techniques
-> - Programmable diagramming
-> - FinOps intelligence and modeling
-> - Commodity management (HW/SW)
-> - Process engineering
