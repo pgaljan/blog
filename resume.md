@@ -41,7 +41,7 @@ timeline
 #####  2017 - current | Product Management | Dell Technologies 
 > - Developed observability, business logic, GIS, and serviceability strategies for [NativeEdge Orchestrator](https://infohub.delltechnologies.com/en-us/l/introduction-to-the-dell-nativeedge-software-platform-white-paper-3/nativeedge-orchestrator-5/)
 > - Overhauled [deployment experience](https://vxrailconfiguration.dell.com/getStarted) and enabled self-service onboarding across a product with >$2B ARR
-> - Responsible for the introduction first [net new product line](https://www.dell.com/en-us/dt/hyperconverged-infrastructure/microsoft-azure-stack/microsoft-azure-stack-hub.htm#tab0=0) in the combined Dell/EMC entity, attaining #1 volume and margin share owner in the space with over $100M revenue
+> - Introduced first [net new product line](https://www.dell.com/en-us/dt/hyperconverged-infrastructure/microsoft-azure-stack/microsoft-azure-stack-hub.htm#tab0=0) in the combined Dell/EMC entity, attaining #1 volume and margin share owner in the space with over $100M revenue
 
 #####  2012 - 2016 | Presales Leadership | EMC
 > - Recruited and managed global team of highly specialized technologists in the areas of high-volume data platforms, ERP, CRP, and enterprise communications
@@ -52,9 +52,8 @@ timeline
 > - Developed tool to automate collection of data-intensive application topology and performance data used across 1000s of customers
 
 #####  2004 - 2007 | Presales Engineering | NetApp
-> - Led technical sales efforts and proofs of concept for large opportunities across NetApp Federal
-> - Designed NetApp storage architectures to address [DISA ESS2](https://www.wwt.com/press-release/wwt-awarded-disa-enterprise-storage-services-ii-contract) contract, among many others
-> - Developed tool to automate collection of data-intensive application topology and performance data used across 1000s of customers
+> - Developed NetApp storage patterns and architectures to address large contracts such as [DISA ESS2](https://www.wwt.com/press-release/wwt-awarded-disa-enterprise-storage-services-ii-contract) 
+> - Designated SME for challenging OLTP workloads and storage protocols
 
 #####  2000 - 2003 | IT Operations | SAIC
 > - DevOps/infrastructure lead for supervised machine learning on open source [MASINT data](https://apps.dtic.mil/sti/tr/pdf/ADP204402.pdf)
