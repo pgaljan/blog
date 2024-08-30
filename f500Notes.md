@@ -7,8 +7,8 @@ Join, attend, and present at meetups/user groups for your space.  Talk to the at
 
 *Exercise*:  Maintain a blog or github that shows your current interests, skill levels, and development patterns. If you can't commit the time to an active blog or github, polish and publish some work on carrd as a one-off.
 
--	[mid-career Techrepreneur](https://raymondtraylor.com/)
 -	[Early career PDM/Design](https://uxfol.io/p/juno_athena/0351aad4)
+-	[mid-career Techrepreneur](https://raymondtraylor.com/)
 -	[Mid-career technical](https://www.cyrusstoller.com/about.html)
 -	[List of portfolio pages](https://docs.google.com/spreadsheets/u/0/d/1u_57r45GtmRHcmhV-MxIxrJkg0gYw22xXWpHPskqqKc/htmlview?pli=1)
 
