@@ -1,38 +1,4 @@
 
-# Changing and choosing industries
-Three choices:
-1. Pure play IT firm
-2. Consulting/MSP/Reseller
-3. End user
-	1. Technology-based optimizations
-	2. Operational Technology Support
-
-These three represent, effectively, the supply chain. Category 3.2 is fine to start in, but do not stay there. Category 3.1 is requires domain depth and is a great way into the other categories. 
-
-Pay for the same applied skill varies widely in tech for two reasons:
-
-- Industries value talent based on ROI of the applied skillset, which varies according to application
-- Tech is notoriously high leverage; decisions a single worker makes can save (or cost) the organization many times the price of the worker themselves.
-
-Because pay varies widely, jobs in tech are frequently tuned to optimize for work/life flexibility, particularly in industries where pay is uncompetitive.
-
-Industry tailwinds are very helpful for entry level jobs, but being part of a "hot industry" makes progression more competitive. Industry headwinds present opportunities for mid-career leaders because tech is nearly always challenged to innovate when cost optimizations are in play.  
-
-Study your industry, adjacent industries, and adjacent geographies, understand where money is being invested.  Read trade publications and quarterly reports of firms you are interested in.
-
-Assess developments in your functional area over the last five years and do an impact assessment on your skill set 
-
-## F500 role types
-| |Internal Facing | External Facing |
-| |---|---|
-| Operational
-| Project
-
-- internal project based work
-- internal ops-based work
-- sales-based work
-- external consulting
-
 ## networking, marketing, soft skills
 Be easy to get to know and be easy to sell.  Maintain a blog or github that shows your current interests, skill levels, and development patterns. If you can't commit the time to an active blog or github, polish and publish some work on carrd as a one-off.
 
@@ -119,8 +85,8 @@ Conflict is necessary and healthy. When managing conflict with a peer, identify 
 
 
 
-## Job progression
-Most pure-play tech companies have a structure like Dell's with IC roles that can overlap with relatively senior managers from a compensation perspective.  Progression to the top IC ranks is statistically rare.  
+# Job progression
+Most companies have a tech ladder, even if it's only one or two steps.  In more tech-focused companies, IC roles that can overlap with relatively senior managers from a compensation perspective.  Progression to the very top IC ranks is statistically rare.  
 
 Given the compensation overlap, it's common for a person move back and forth between management and IC although it's not always successful; great engineers often make bad managers, and it's easy for managers to lose technical depth.  
 
@@ -133,6 +99,39 @@ Given the compensation overlap, it's common for a person move back and forth bet
 | Advisor / Sr Advisor     | Manager / Sr Manager   |
 | Early career             |                        |
 
+## Choosing an industry
+A technologist can work in one of three general types of organizations, roughly representing the technology supply chain:
+
+### 1. Tech Product firms
+#### Large firms
+Entry into large tech product firms is generally done directly out of undergrad or master's level studies through intern programs, and once in, lateral movement between firms is common.  Later-career entrants will usually come into the firm through the field or from acquisitions.  Laterals tend to hit glass ceilings for promotion, but mid-senior IC and manager roles can be quite comfortable and stable, but can give low optionality for geography.
+
+#### Mid-sized firms
+Mid-late startups and pre-IPO firms in high growth phase represent the greatest opportunity for mid-junior technologists, particularly in field-facing roles. This tends to be the frothiest area, and gives the least optionality in terms work-life balance. 
+
+### 2. Consulting/MSP/Reseller/Distributor
+
+
+### 3. End user
+
+
+	1. Technology-based optimizations
+	2. Operational Technology Support
+
+These three represent, effectively, the supply chain. Category 3.2 is fine to start in, but do not stay there. Category 3.1 is requires domain depth and is a great way into the other categories. 
+
+Pay for the same applied skill varies widely in tech for two reasons:
+
+- Industries value talent based on ROI of the applied skillset, which varies according to application
+- Tech is notoriously high leverage; decisions a single worker makes can save (or cost) the organization many times the price of the worker themselves.
+
+Because pay varies widely, jobs in tech are frequently tuned to optimize for work/life flexibility, particularly in industries where pay is uncompetitive.
+
+Industry tailwinds are very helpful for entry level jobs, but being part of a "hot industry" makes progression more competitive. Industry headwinds present opportunities for mid-career leaders because tech is nearly always challenged to innovate when cost optimizations are in play.  
+
+Study your industry, adjacent industries, and adjacent geographies, understand where money is being invested.  Read trade publications and quarterly reports of firms you are interested in.
+
+Assess developments in your functional area over the last five years and do an impact assessment on your skill set 
 
 
 
