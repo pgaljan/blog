@@ -32,29 +32,6 @@ Practice System 2 thinking frequently;  you do not always need to share the proc
 Don’t express unreasoned opinions in the workplace - Chesterton fences destroy credibility silently and quickly.   All opinions should carry exec-ready backing analysis or be expressed as a question; casual opinions do not belong in the workplace. Always identify the conditions and indicators that contraindicate your analysis. 
 
 It is vanishingly rare to receive active feedback on incidents that damage your credibility in the workplace. It is much more common for people to exit an interaction thinking they’ve won an argument when in fact they’ve only identified themselves as an obstacle to be worked around (or removed entirely). So be retrospective, leave room to be wrong, and actively seek feedback from all classes of stakeholder.
-## developing a plan
-Identify a specific job that meets your criteria as "ideal" for you in five years.  If you have no specific job in mind, set a specific total comp and find jobs aligned to those earnings.  It does not need to include management, but should represent a substantial scope change from what you do today. 
-
-Complete the mad-lib:
-“In <year>, I would like to be <title> of <domain> in an <sized>-sized firm in the <industry> industry in the <location> metro area , earning <range>, with a <number> span of control over <number> levels.”
-
-It should be aggressive but realistic, accounting for geography, current access, experience, and the time you are realistically able to commit to career development.   For example a high performing mid-career target hire might be able to achieve Director-level management in 5 years, where the same lateral hire might take 8-10 to achieve the same.
-
-Get very specific, and look up listings for the exact job you want, and closely evaluate the hiring criteria.   Perform a gap analysis, and check your assumptions to make sure it's still aggressive but realistic.  
-
-Pay special attention to market- and role-specific proof points.  For example, a global leader will need prior international experience, and a junior exec with multiple L1 managers will need to show strong performance as a direct manager.
-
-Create a skills matrix showing the up-and downstream consumers of your function and assess your skills in each of these areas on a 100 to 400-level depth. 
-
-Start working the gaps:
-- Access
-- Technical experience
-- Adjacent domain fluency
-- Reputation
-- Network
-- Education
-
-Do this exercise fresh every 6-12 months, like visiting your financial plan.
 
 # maintaining organizational awareness
 
@@ -70,22 +47,17 @@ Centering yourself in the network
 ## Close gaps/maintain academic understanding
 - Maintain a 100 level understanding on all identifiable nodes on your network
 - Maintain a 400 level on all connecting nodes.
-- Maintain 500 level on your node.  To claim status as a knowledge worker, you must operate as if you have post-graduate experience in your domain.  The actual degree is optional; but you should maintain a demonstrable external facing portfolio or level of certification commensurate to your title.
- ## Close gaps/maintain operational understanding
- For an escalation in any possible direction
-
+- Maintain 500 level on your node.  To claim status as a knowledge worker, you must operate post-graduate experience in your domain.  The actual degree is optional; but you should maintain a demonstrable external facing portfolio or level of certification commensurate to your title.
 
 ## conflict management
 Conflict is necessary and healthy. When managing conflict with a peer, identify and document:
 - RACI - if it does not exist, create one and agree on it.  If you cannot agree on it, consult your manager
-- areas of agreement
+- Areas of agreement
 - Areas of conflict 
-- escalation timing
+- Escalation timing
 - Escalation paths
 
-
-
-# Job progression
+# understand your career ladder
 Most companies have a tech ladder, even if it's only one or two steps.  In more tech-focused companies, IC roles that can overlap with relatively senior managers from a compensation perspective.  Progression to the very top IC ranks is statistically rare.  
 
 Given the compensation overlap, it's common for a person move back and forth between management and IC although it's not always successful; great engineers often make bad managers, and it's easy for managers to lose technical depth.  
@@ -99,26 +71,8 @@ Given the compensation overlap, it's common for a person move back and forth bet
 | Advisor / Sr Advisor     | Manager / Sr Manager   |
 | Early career             |                        |
 
-## Choosing an industry
-A technologist can work in one of three general types of organizations, roughly representing the technology supply chain:
-
-### 1. Tech Product firms
-#### Large firms
-Entry into large tech product firms is generally done directly out of undergrad or master's level studies through intern programs, and once in, lateral movement between firms is common.  Later-career entrants will usually come into the firm through the field or from acquisitions.  Laterals tend to hit glass ceilings for promotion, but mid-senior IC and manager roles can be quite comfortable and stable, but can give low optionality for geography.
-
-#### Mid-sized firms
-Mid-late startups and pre-IPO firms in high growth phase represent the greatest opportunity for mid-junior technologists, particularly in field-facing roles. This tends to be the frothiest area, and gives the least optionality in terms work-life balance. 
-
-### 2. Consulting/MSP/Reseller/Distributor
-
-
-### 3. End user
-
-
-	1. Technology-based optimizations
-	2. Operational Technology Support
-
-These three represent, effectively, the supply chain. Category 3.2 is fine to start in, but do not stay there. Category 3.1 is requires domain depth and is a great way into the other categories. 
+## choose an industry
+A technologist can work in one of three general types of organizations, roughly representing the technology supply chain.
 
 Pay for the same applied skill varies widely in tech for two reasons:
 
@@ -131,7 +85,51 @@ Industry tailwinds are very helpful for entry level jobs, but being part of a "h
 
 Study your industry, adjacent industries, and adjacent geographies, understand where money is being invested.  Read trade publications and quarterly reports of firms you are interested in.
 
-Assess developments in your functional area over the last five years and do an impact assessment on your skill set 
+*Exercise*: Assess developments in your functional area over the last five years and do an impact assessment on your skill set 
+
+### develop a goal
+Identify a specific job that meets your criteria as "ideal" for you in five years.  If you have no specific job in mind, set a specific total comp and find jobs aligned to those earnings.  It does not need to include management, but should represent a substantial scope change from what you do today. 
+
+*exercise*:
+“In <year>, I would like to be <title> of <domain> in an <sized>-sized firm in the <industry> industry in the <location> metro area , earning <range>, with a <number> span of control over <number> levels.”
+
+It should be aggressive but realistic, accounting for geography, current access, experience, and the time you are realistically able to commit to career development.   For example a high performing mid-career target hire might be able to achieve Director-level management in 5 years, where the same lateral hire might take 8-10 to achieve the same.
+
+Get very specific, and look up listings for the exact job you want, and closely evaluate the hiring criteria.   Perform a gap analysis, and check your assumptions to make sure it's still aggressive but realistic.  
+
+Pay special attention to market- and role-specific proof points.  For example, a global leader will need prior international experience, and a junior exec with multiple L1 managers will need to show strong performance as a direct manager.
+
+### develop a plan
+Create a skills matrix showing the up-and downstream consumers of your function and assess your skills in each of these areas on a 100 to 400-level depth. 
+
+Start working the gaps:
+- Access
+- Technical experience
+- Adjacent domain fluency
+- Reputation
+- Network
+- Education
+
+Do this exercise fresh every 6-12 months, like visiting your financial plan.
+
+
+### 1. Tech Product firms
+#### Large firms
+Entry into large tech product firms is generally done directly out of undergrad or master's level studies through intern programs, and once in, lateral movement between firms is common.  Later-career entrants will usually come into the firm through the field or from acquisitions.  There is increasingly lower optionality for geography.  Laterals tend to hit glass ceilings at or around the executive level, but mid-senior IC and manager roles can be quite comfortable and stable.
+
+#### Mid-sized firms
+Mid-late startups and pre-IPO firms in high growth phase represent the greatest opportunity for mid-junior technologists, particularly in field-facing roles. This tends to be the frothiest area, and gives the least optionality in terms work-life balance.
+
+### 2. Consulting/MSP/Reseller/Distributor
+
+
+### 3. End user
+
+
+	1. Technology-based optimizations
+	2. Operational Technology Support
+
+
 
 
 
