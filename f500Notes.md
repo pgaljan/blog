@@ -1,11 +1,17 @@
-## networking, marketing, soft skills
-Develop a reputation for being predictable, knowledgeable, and easy to work with.  Show a basic respect for your colleagues who work alongside you, and an academic interest in adjacent domains.  Be clear in your requests and expectations of your colleagues, using their domain-specific lingo.  When discussing your domain, always begin with a first-principles overview, avoiding domain-specific terminology. 
+# develop organizational awareness
 
-Actively seek out feedback from everyone you work with closely.  Be specific in your request for feedback - anything you want me to stop, start or continue doing.
+![functional quadrant chart](image-1.png)
+1. Download or approximate your firm's org chart using a [directed graph](https://en.wikipedia.org/wiki/Directed_graph) network illustrating the firm's supply chain using the quadrant chart as a prompt
+2. Show allocated personnel densities by function
+3. Rate your academic understanding of all the functions on the network
+4. Rate your organizational awareness of the functions on the network
+5. Develop a learning plan to get you to 
+   1. 100 level on all functions on the network - to be effective with a braod array of stakeholders, you need to be able to express actionable business needs succinctly
+   2. 400 level on all functions directly connecting to yours - to be effective in your job and relevant to your business, you need to be able to contribute meaningfully to the discourse surrounding adjacent business functions
+   3. 500 level on your function - to claim status as a knowledge worker, you must operate at the post-graduate level in your domain.  The actual degree is optional; but you should maintain a demonstrable external facing portfolio or level of certification commensurate to your title.
 
-Join, attend, and present at meetups/user groups for your space.  Talk to the attendees more than the vendors.   Find mentors in your space; discussions should be 3:1 in favor of mentor sharing experience vs seeking advice.  
-
-*Exercise*:  Maintain a blog or github that shows your current interests, skill levels, and development patterns. If you can't commit the time to an active blog or github, polish and publish some work on carrd as a one-off.
+# display professional depth
+Maintain a blog or github that shows your current interests, skill levels, and development patterns. If you can't commit the time to an active blog or github, polish and publish some work on carrd as a one-off.
 
 -	[Early career PDM/Design](https://uxfol.io/p/juno_athena/0351aad4)
 -	[mid-career Techrepreneur](https://raymondtraylor.com/)
@@ -14,26 +20,19 @@ Join, attend, and present at meetups/user groups for your space.  Talk to the at
 
 Have your resume drafted by a professional every five years.
 
-# develop organizational awareness
-
-1. Download or approximate your firm's org chart using a [directed graph](https://en.wikipedia.org/wiki/Directed_graph) network
-3. Show allocated personnel densities by function
-4. Rate your academic understanding of all the functions on the network
-5. Rate your organizational awareness of the functions on the network
-6. Develop a learning plan to get you to 
-   1. 100 level on all functions on the network
-   2. 400 level on all functions directly connecting to yours
-   3. 500 level on your function
-
-To claim status as a knowledge worker, you must operate post-graduate experience in your domain.  The actual degree is optional; but you should maintain a demonstrable external facing portfolio or level of certification commensurate to your title.
-
-## maintain your own agility
+# maintain career agility
 Average job tenure is 2-4 years and this holds true for your manager as well. Do not rely on your relationship with them for promotion or even job security. Establish and maintain your own reputation for producing predictable, excellent deliverables, on time, with transparency to process.
 
 Document your tasks until they are portable. If you cannot adequately engage a peer and have them do your work, keep documenting
 *if you cannot hand over your work, you will be doing it until you quit or are fired*
 
 *exercise*: Write a transition plan for your role
+
+Develop a reputation for being predictable, knowledgeable, and easy to work with.  Show a basic respect for your colleagues who work alongside you, and an academic interest in adjacent domains.  Be clear in your requests and expectations of your colleagues, using their domain-specific lingo.  When discussing your domain, always begin with a first-principles overview, avoiding domain-specific terminology. 
+
+Actively seek out feedback from everyone you work with closely.  Be specific in your request for feedback - anything you want me to stop, start or continue doing.
+
+Join, attend, and present at meetups/user groups for your space.  Talk to the attendees more than the vendors.   Find mentors in your space; discussions should be 3:1 in favor of mentor sharing experience vs seeking advice.  
 
 ## establish/maintain credibility
 Be mindful of your credibility in the workplace; what areas you are authoritative, advisory etc. Maximize advisory functions, with advisory roles being active work, and not just review/editing of other work; this is work you should be claiming ownership of. 
