@@ -1,4 +1,3 @@
-
 ## networking, marketing, soft skills
 Develop a reputation for being predictable, knowledgeable, and easy to work with.  Show a basic respect for your colleagues who work alongside you, and an academic interest in adjacent domains.  Be clear in your requests and expectations of your colleagues, using their domain-specific lingo.  When discussing your domain, always begin with a first-principles overview, avoiding domain-specific terminology. 
 
@@ -8,28 +7,25 @@ Join, attend, and present at meetups/user groups for your space.  Talk to the at
 
 *Exercise*:  Maintain a blog or github that shows your current interests, skill levels, and development patterns. If you can't commit the time to an active blog or github, polish and publish some work on carrd as a one-off.
 
-[mid-career Techrepreneur](https://raymondtraylor.com/)
-[Early career PDM/Design] (https://uxfol.io/p/juno_athena/0351aad4)
-[Mid-career technical] (https://www.cyrusstoller.com/about.html)
-
-[List of portfolio pages] (https://docs.google.com/spreadsheets/u/0/d/1u_57r45GtmRHcmhV-MxIxrJkg0gYw22xXWpHPskqqKc/htmlview?pli=1)
+-	[mid-career Techrepreneur](https://raymondtraylor.com/)
+-	[Early career PDM/Design](https://uxfol.io/p/juno_athena/0351aad4)
+-	[Mid-career technical](https://www.cyrusstoller.com/about.html)
+-	[List of portfolio pages](https://docs.google.com/spreadsheets/u/0/d/1u_57r45GtmRHcmhV-MxIxrJkg0gYw22xXWpHPskqqKc/htmlview?pli=1)
 
 Have your resume drafted by a professional every five years.
 
 # develop organizational awareness
 
-## understand the structure 
-Review the org chart, use it to document a [directed graph](https://en.wikipedia.org/wiki/Directed_graph) network in whatever tool you prefer
+1. Download or approximate your firm's org chart using a [directed graph](https://en.wikipedia.org/wiki/Directed_graph) network
+3. Show allocated personnel densities by function
+4. Rate your academic understanding of all the functions on the network
+5. Rate your organizational awareness of the functions on the network
+6. Develop a learning plan to get you to 
+   1. 100 level on all functions on the network
+   2. 400 level on all functions directly connecting to yours
+   3. 500 level on your function
 
-## understand your understanding of your network
-Centering yourself in the network
-- rate your academic understanding of all nodes on a 100 to 400 academic level
-- rate your organizational understanding of all nodes on a normal scale
-
-## Close gaps/maintain academic understanding
-- Maintain a 100 level understanding on all identifiable nodes on your network
-- Maintain a 400 level on all connecting nodes.
-- Maintain 500 level on your node.  To claim status as a knowledge worker, you must operate post-graduate experience in your domain.  The actual degree is optional; but you should maintain a demonstrable external facing portfolio or level of certification commensurate to your title.
+To claim status as a knowledge worker, you must operate post-graduate experience in your domain.  The actual degree is optional; but you should maintain a demonstrable external facing portfolio or level of certification commensurate to your title.
 
 ## maintain your own agility
 Average job tenure is 2-4 years and this holds true for your manager as well. Do not rely on your relationship with them for promotion or even job security. Establish and maintain your own reputation for producing predictable, excellent deliverables, on time, with transparency to process.
