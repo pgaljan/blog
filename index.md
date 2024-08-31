@@ -1,5 +1,8 @@
 ## About
-Blog posts, tools and projects that make my day to day work more efficient, consistent, and repeatable.  I sometimes roll out proofs of concept and demos to cloudmappr.com.  Reach out if you'd like to collaborate.
+These are exercises to orient your current career position and develop a course of action to achieve your career goals.
+
+1. [Develop organizational awareness](./orgaware.md)
+2. [Develop a public persona](./persona.md)
 
 
 
