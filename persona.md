@@ -1,5 +1,5 @@
 # prepare and maintain a public professional face
-A resume is wholly unreliable for communicating the full range of capabilities of a mid-junior or senior technologist.  Maintain a blog or github that shows your current interests, skill levels, and development patterns. If you can't commit the time to an active blog or github, polish and publish a sprint's worth of work on carrd as a one-off.
+A resume is wholly unreliable for communicating the full range of capabilities of a mid-junior or senior technologist, and can only hint at technical approach.  Maintain a blog or github that shows your current interests, skill levels, and development patterns. If you can't commit the time to an active blog or github, polish and publish a sprint's worth of work on carrd as a one-off.
 
 -	[Early career PDM/Design](https://uxfol.io/p/juno_athena/0351aad4)
 -	[mid-career Techrepreneur](https://raymondtraylor.com/)
