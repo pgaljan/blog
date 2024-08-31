@@ -1,8 +1,8 @@
 # develop organizational awareness
-## Purpose
+## purpose
 Knowledge worker roles are relatively fluid, requiring some level of cross-domain communication and expertise.  This exercise creates a skills matrix and social network specific to your current or desired role.
 
-## Exercises
+## exercises
 ![functional quadrant chart](image-1.png)
 1. Using the quadrant chart and your organization's chart as prompts, approximate the firm's value chain using a [directed graph](https://en.wikipedia.org/wiki/Directed_graph) network
 2. Show allocated personnel densities by function
