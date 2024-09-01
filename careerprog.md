@@ -75,4 +75,4 @@ Average job tenure is 2-4 years and this holds true for your manager as well. Do
 ## Pay structure
 At entry/junior levels, total compensation is mostly base pay, with a 10-15% target bonus.  Senior ICs will see that rise to 25% and will be much higher as you move up mid- and senior- management.  
 
-Sell enough stock to cover gains and income tax immediately on grant. If the stock price falls you are exposed to a tax bills without the corresponding assets to cover.
+Sell enough stock to cover gains and income tax immediately on grant. If the stock price falls you are exposed to gains without the corresponding assets to cover.
