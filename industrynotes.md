@@ -22,11 +22,7 @@ Junior laterals will find the most opportunity in operations/delivery roles, whi
 These are some of the most satisfying roles for a broadly interested technologist.  Even juniors can have extensive influence on technology stack and development pattern choices.
 
 ## 3. End user
-End user firms will employ technologists to serve two functions:
-
-### Enable key differentiators
-
-### Support Operations
+End user roles can be good first steps in a tech career.  firms will employ dedicated technologists to either enable key technology-related differentiators, or to sustain operations wherever they cannot be outsourced.  The latter category experiences constant pressure from services and product firms, while the former offers lateral mobility as a subject matter expert in tech product and services firms and can be a satisfying career in its own right.
 
 
 
