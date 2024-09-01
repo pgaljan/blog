@@ -4,7 +4,7 @@
 
 ## 1. Tech Product firms
 ### Large firms (FAANG, HPE, Alibaba, Dell, etc)
-Entry into large tech product firms is usually directly out of undergrad or graduate level intern programs.  Lateral entrants will usually come into the firm through the field (sales/service) or from acquisitions.  There is increasingly lower optionality for geography in large firms.  Laterals tend to hit glass ceilings at or around the executive level, but mid-senior IC and manager roles can be quite comfortable and stable.
+Entry into large tech product firms is usually directly out of undergrad or graduate level intern programs.  Lateral entrants will usually come into the firm through the field (sales/service) or from acquisitions.  There is increasingly lower optionality for geography in large firms.  Laterals tend to hit glass ceilings at or around the executive level, but this is offset by exec-level pay packages for senior ICs and mid-level managers.
 
 ### Mid-sized firms (Rubrik, NetApp, Pure, Veritas, etc)
 Mid-late startups, pre-IPO and mid-sized tech firms in high growth phase represent the greatest opportunity for mid-junior technologists, particularly in field-facing roles, which tend to be more valued in these firms. They generally offer the least optionality in terms work-life balance, but high growth gives opportunity across geographies, and competitive pay ranges.  High performing laterals will have equitable access to executive positions, which can be parlayed to executive scope in a larger firm.
@@ -23,9 +23,3 @@ These are some of the most satisfying roles for a broadly interested technologis
 
 ## 3. End user
 End user roles can be good first steps in a tech career.  firms will employ dedicated technologists to either enable key technology-related differentiators, or to sustain operations wherever they cannot be outsourced.  The latter category experiences constant pressure from services and product firms, while the former offers lateral mobility as a subject matter expert in tech product and services firms and can be a satisfying career in its own right.
-
-
-
-
-
-
