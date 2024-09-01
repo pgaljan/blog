@@ -1,6 +1,6 @@
 # develop organizational awareness
 ## purpose
-Knowledge worker roles are relatively fluid, requiring some level of cross-domain communication and expertise.  This exercise creates a skills matrix and social network specific to your current or desired role.
+Knowledge worker roles are relatively fluid, requiring some level of cross-domain communication and expertise.  These exercises create a skills matrix and social network specific to your current or desired role.
 
 ## exercises
 ![functional quadrant chart](image-1.png)
