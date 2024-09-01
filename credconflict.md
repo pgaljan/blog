@@ -18,7 +18,7 @@ Conflict is natural, necessary, and healthy in knowledge worker roles, but can b
 When managing conflict:
 
 1. Identify stakeholders (n) and representatives (fewer than 4)
-2. Draw a network diagram of the workflow or value chain and document:
+2. Draw a directed graph of the workflow or value chain and document:
 - RACI - if it does not exist, create one and agree on it.  If you cannot agree on it, consult your manager
 - Areas of agreement
 - Areas of conflict 
