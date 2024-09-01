@@ -34,7 +34,8 @@ Study your industry, adjacent industries, and adjacent geographies, understand w
 Identify a specific job that meets your criteria as "ideal" for you in five years.  If you have no specific job in mind, set a specific total comp and find jobs aligned to those earnings.  It does not need to include management, but should represent a substantial scope change from what you do today. 
 
 Complete the following
-*In <year>, I would like to be <title> of <domain> in an <sized>-sized firm in the <industry> industry in the <location> metro area , earning <range>, with a <number> span of control over <number> levels.*
+
+In **year**, I would like to be **title** of **domain** in an **sized**-sized firm in **industry** in the **location** metro area , earning **<range>**, with a **number** span of control over **number** levels.
 
 It should be aggressive but realistic, accounting for geography, current access, experience, and the time you are realistically able to commit to career development.   For example a high performing mid-career target hire might be able to achieve Director-level management in 5 years, where the same lateral hire might take 8-10 to achieve the same.
 

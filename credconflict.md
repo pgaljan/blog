@@ -9,7 +9,6 @@ Unreasoned opinions destroy credibility silently.   Any opinion should carry exe
 
 It is vanishingly rare to receive active feedback on incidents that damage your credibility in the workplace. It is much more common for people to exit an interaction thinking they’ve won an argument when in fact they’ve only identified themselves as an obstacle to be worked around (or removed entirely). Being retrospective and open, leaving room to be wrong.  Actively seek out feedback from everyone you work with closely.  Be specific in your request for feedback - anything you want me to stop, start or continue doing.
 
-
 ### managing conflict
 Conflict is natural, necessary, and healthy in knowledge worker roles, but can be organizationally paralytic and personally off-putting.  This is solved with transparency and documentation.
 
@@ -20,7 +19,7 @@ When managing conflict with a peer, draw a network diagram of the workflow and d
 - Escalation paths
 - Escalation timing
 
-With those established, use **the entire time available to you** in order to resolve differences, as long as you are making progress
+With those established, **use the entire time available to you** order to resolve differences, as long as you are making progress.  Give plenty of time between conflict resolution sessions, and make use of asyncrhonous methods to speed up the process.
 
 ### managing ambiguity
 Accounting for unknowns is a core aspect of analytic method and necessary for all management personnel, and most senior ICs.  Inability to account for ambiguity is immediately obvious to executives.
