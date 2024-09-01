@@ -7,7 +7,7 @@ If you can't commit the time to an active blog or github <a href="https://paulga
 
 #### Other examples
 -   [Early career PDM/Design](https://uxfol.io/p/juno_athena/0351aad4)
--	[mid-career Techrepreneur](https://raymondtraylor.com/)
--	[Mid-career technical](https://www.cyrusstoller.com/about.html)
+-	[Mid-career Dev/Techrepreneur](https://raymondtraylor.com/)
+-	[Mid-career Dev - personally expressive](https://www.cyrusstoller.com/about.html)
 -	[List of portfolio pages](https://docs.google.com/spreadsheets/u/0/d/1u_57r45GtmRHcmhV-MxIxrJkg0gYw22xXWpHPskqqKc/htmlview?pli=1)
 
