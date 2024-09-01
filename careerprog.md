@@ -17,14 +17,14 @@ Given the compensation overlap, it's common for a person move back and forth bet
 *Place yourself on the tech ladder.  Identify the 5-year opportunities for upleveld roles in your current organization*
 
 ## choose an industry
-Pay for the identicaL applied skill varies widely in tech for two reasons:
+Compensation for the identical applied skill can vary by an order of magnitude because:
 
 - Industries value talent based on ROI of the applied skillset, which varies according to application
 - Tech is notoriously high leverage; decisions a single worker makes can save (or cost) the organization many times the price of the worker themselves.
 
 Because pay varies widely, jobs in tech are frequently tuned to optimize for work/life flexibility, particularly in industries where pay is uncompetitive.
 
-Industry tailwinds are very helpful for entry level jobs, but being part of a "hot industry" makes progression more competitive. Industry headwinds present opportunities for mid-career leaders because tech is nearly always challenged to innovate when cost optimizations are in play.  
+Industry tailwinds are very helpful for entry level jobs, but being part of a "hot industry" makes progression more competitive and can quickly become oversaturated with talent. Industry headwinds present opportunities for mid-career leaders because tech is nearly always challenged to innovate when cost optimizations are in play.  
 
 Study your industry, adjacent industries, and adjacent geographies, understand where development money is being invested.  Read trade publications and quarterly reports of firms you are interested in.
 
@@ -35,7 +35,7 @@ Identify a specific job that meets your criteria as "ideal" for you in five year
 
 Complete the following
 
-In **year**, I would like to be **title** of **domain** in an **sized**-sized firm in **industry** in the **location** metro area , earning **<range>**, with a **number** span of control over **number** levels.
+In **year**, I would like to be **title** of **domain** in an **sized**-sized firm in **industry** in the **location** metro area , earning **range**, with a **number** span of control over **number** levels.
 
 It should be aggressive but realistic, accounting for geography, current access, experience, and the time you are realistically able to commit to career development.   For example a high performing mid-career target hire might be able to achieve Director-level management in 5 years, where the same lateral hire might take 8-10 to achieve the same.
 
