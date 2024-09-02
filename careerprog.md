@@ -14,7 +14,7 @@ Given the compensation overlap, it's common for a person move back and forth bet
 | Advisor / Sr Advisor     | Manager / Sr Manager   |
 | Early career             |                        |
 
-*Place yourself on the tech ladder.  Identify the 5-year opportunities for upleveld roles in your current organization*
+*Place yourself on the tech ladder.  Identify the 5-year opportunities for uplevel roles in your current organization*
 
 ## choose an industry
 Compensation for the identical applied skill can vary by an order of magnitude because:
@@ -58,21 +58,18 @@ Start working the gaps:
 Do this exercise fresh every 6-12 months, like visiting your financial plan.
 
 ## maintain career agility
-Average job tenure is 2-4 years and this holds true for your manager as well. Do not rely on your relationship with your manager for promotion or job security. Establish and maintain your own reputation for producing predictable, excellent deliverables, on time, with transparency to process.
+Average job tenure is 2-4 years and this holds true for your manager as well. If you are unable to identify a progression path in 18 months, quietly get your shit together.  Do not rely on your relationship with your manager for promotion or job security. Establish and maintain your own reputation for producing predictable, excellent deliverables, on time, with transparency to process.
 
-*Maintain an active, documented offboarding plan* that allows you to transition your core responsibilities within 4 weeks. If you cannot hand over your work, you will be doing it until you quit or are fired.
-
-*Join, attend, and present at meetups/user groups for your space.*  Talk to the attendees more than the vendors.   Find mentors in your space; discussions should be 3:1 in favor of mentor sharing experience vs seeking advice.  
+A 2-4 year job cycle requires that you *maintain an active, documented offboarding plan* that allows you to transition your core responsibilities within 4 weeks. If you cannot hand over your work, you will be doing it until you quit or are fired.
 
 
-## Time in Role
-1. Ideal time in role 2-3 years (for you; org may prefer longer)
-2. If you do not honestly see a progression path after 18 months, it's time to start looking.  
-3. Do not hold any job without a scope change for more than 5 years (particularly true in F500).
+*Join, attend, and present at meetups/user groups for your space.*  Talk to the attendees more than the vendors.   Find and develop relationships with mentors in your space; discussions should be 3:1 in favor of mentor sharing experience vs seeking advice.  
+
+
 
 *How does your current role prepare you for your next two roles?*
 
-## Pay structure
+## manage your earnings
 At entry/junior levels, total compensation is mostly base pay, with a 10-15% target bonus.  Senior ICs will see that rise to 25% and will be much higher as you move up mid- and senior- management.  
 
 Sell enough stock to cover gains and income tax immediately on grant. If the stock price falls you are exposed to gains without the corresponding assets to cover.
