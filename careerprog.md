@@ -71,3 +71,4 @@ The value of any skill depends on the market value of its outcome, which is subj
 Know the pay structure for your role and those in your tech ladder.  In large firms, at entry/junior levels, total compensation is mostly base pay, with a 10-15% target bonus.  Senior ICs will see that rise to 25% and will be much higher as you move up mid- and senior- management.  Sales-related roles are fundamentally different base structure, and can be paid at different frequencies.
 
 Sell enough stock to cover gains and income tax immediately on grant. If the stock price falls you are exposed to gains without the corresponding assets to cover.
+
