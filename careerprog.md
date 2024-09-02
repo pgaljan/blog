@@ -18,13 +18,12 @@ Given the compensation overlap, it's common for a person move back and forth bet
 
 ## choose an industry
 Compensation for the identical applied skill can vary by an order of magnitude because:
-
 - Industries value talent based on ROI of the applied skillset, which varies according to application
 - Tech is notoriously high leverage; decisions a single worker makes can save (or cost) the organization many times the price of the worker themselves.
 
 Because pay varies widely, jobs in tech are frequently tuned to optimize for work/life flexibility, particularly in industries where pay is uncompetitive.
 
-Industry tailwinds are very helpful for entry level jobs, but being part of a "hot industry" makes progression more competitive and can quickly become oversaturated with talent. Industry headwinds present opportunities for mid-career leaders because tech is nearly always challenged to innovate when cost optimizations are in play.  
+Industry tailwinds are very helpful for entry level jobs, but hot industries can quickly become oversaturated with talent. Industry headwinds present opportunities for high performers because tech is nearly always challenged to innovate when cost optimizations are in play.  
 
 Study your industry, adjacent industries, and adjacent geographies, understand where development money is being invested.  Read trade publications and quarterly reports of firms you are interested in.
 
@@ -62,14 +61,13 @@ Average job tenure is 2-4 years and this holds true for your manager as well. If
 
 A 2-4 year job cycle requires that you *maintain an active, documented offboarding plan* that allows you to transition your core responsibilities within 4 weeks. If you cannot hand over your work, you will be doing it until you quit or are fired.
 
-
 *Join, attend, and present at meetups/user groups for your space.*  Talk to the attendees more than the vendors.   Find and develop relationships with mentors in your space; discussions should be 3:1 in favor of mentor sharing experience vs seeking advice.  
-
-
 
 *How does your current role prepare you for your next two roles?*
 
 ## manage your earnings
-At entry/junior levels, total compensation is mostly base pay, with a 10-15% target bonus.  Senior ICs will see that rise to 25% and will be much higher as you move up mid- and senior- management.  
+The value of any skill depends on the market value of its outcome, which is subject to automation in tech/knowledge worker roles.  High-comp positions can get productized out of existence, sometimes gradually, often suddenly.  Do not spend to your earnings and maintain 6-12 months of opex relatively liquid to cover expenditures during a re-tooling.  This is much easier to achieve when you limit your future-obligated spending to less than half your net.  High levels of future-obligated spend reduces employment optionality, which can have substantial long-term impact on a career.
+
+Know the pay structure for your role and those in your tech ladder.  In large firms, at entry/junior levels, total compensation is mostly base pay, with a 10-15% target bonus.  Senior ICs will see that rise to 25% and will be much higher as you move up mid- and senior- management.  Sales-related roles are fundamentally different base structure, and can be paid at different frequencies.
 
 Sell enough stock to cover gains and income tax immediately on grant. If the stock price falls you are exposed to gains without the corresponding assets to cover.
