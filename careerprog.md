@@ -44,7 +44,7 @@ Pay special attention to market- and role-specific proof points.  For example, a
 
 ## develop a plan
 
-*Create a skills matrix showing the up-and downstream consumers of your function and assess your skills in each of these areas on a 100 to 400-level depth.* 
+*Create a skills matrix showing the up-and downstream consumers of your function and assess your skills in each of these areas on a 100 to 400-level depth.*
 
 Start working the gaps:
 - Access

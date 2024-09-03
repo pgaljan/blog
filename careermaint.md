@@ -1,5 +1,5 @@
 ## maintain career agility
-Average job tenure is 2-4 years and this holds true for your manager as well. If you are unable to identify a progression path in 18 months, quietly get your shit together.  Do not rely on your relationship with your manager for promotion or job security. Establish and maintain your own reputation for producing predictable, excellent deliverables, on time, with transparency to process.
+Average job tenure is 2-4 years and this holds true for your manager as well.  Do not rely on your relationship with your manager for promotion or job security. Establish and maintain your own reputation for producing predictable, excellent deliverables, on time, with transparency to process.
 
 A 2-4 year job cycle requires that you *maintain an active, documented offboarding plan* that allows you to transition your core responsibilities within 4 weeks. If you cannot hand over your work, you will be doing it until you quit or are fired.
 
