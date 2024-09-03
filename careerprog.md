@@ -65,6 +65,9 @@ A 2-4 year job cycle requires that you *maintain an active, documented offboardi
 
 *How does your current role prepare you for your next two roles?*
 
+## maintain your skills and develop perspective
+Dedicate 10-20 hours per month learning portable skills, tools, or frameworks related to your core competency.  Dedicate 5-10 hours per month to educating yourself on business topics such as finance, strategic analysis, supply chain, personnel management, etc.
+
 ## manage your earnings
 The value of any skill depends on the market value of its outcome, which is subject to automation in tech/knowledge worker roles.  High-comp positions can get productized out of existence, sometimes gradually, often suddenly.  Do not spend to your earnings and maintain 6-12 months of opex relatively liquid to cover expenditures during a re-tooling.  This is much easier to achieve when you limit your future-obligated spending to less than half your net.  High levels of future-obligated spend reduces employment optionality, which can have substantial long-term impact on a career.
 
