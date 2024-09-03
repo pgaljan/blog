@@ -1,4 +1,4 @@
-# manage career progression
+# career progression
 
 ## understand your career ladder
 Most companies have a tech ladder, even if it's only one or two steps.  Domain-focused IC roles that can overlap with relatively senior managers from a compensation perspective.  Progression to the very top IC ranks is statistically rare.  
@@ -54,24 +54,4 @@ Start working the gaps:
 - Network
 - Education
 
-Do this exercise fresh every 6-12 months, like visiting your financial plan.
-
-## maintain career agility
-Average job tenure is 2-4 years and this holds true for your manager as well. If you are unable to identify a progression path in 18 months, quietly get your shit together.  Do not rely on your relationship with your manager for promotion or job security. Establish and maintain your own reputation for producing predictable, excellent deliverables, on time, with transparency to process.
-
-A 2-4 year job cycle requires that you *maintain an active, documented offboarding plan* that allows you to transition your core responsibilities within 4 weeks. If you cannot hand over your work, you will be doing it until you quit or are fired.
-
-*Join, attend, and present at meetups/user groups for your space.*  Talk to the attendees more than the vendors.   Find and develop relationships with mentors in your space; discussions should be 3:1 in favor of mentor sharing experience vs seeking advice.  
-
-*How does your current role prepare you for your next two roles?*
-
-## maintain your skills and develop perspective
-Dedicate 10-20 hours per month learning portable skills, tools, or frameworks related to your core competency.  Dedicate 5-10 hours per month to educating yourself on business topics such as finance, strategic analysis, supply chain, personnel management, etc.
-
-## manage your earnings
-The value of any skill depends on the market value of its outcome, which is subject to automation in tech/knowledge worker roles.  High-comp positions can get productized out of existence, sometimes gradually, often suddenly.  Do not spend to your earnings and maintain 6-12 months of opex relatively liquid to cover expenditures during a re-tooling.  This is much easier to achieve when you limit your future-obligated spending to less than half your net.  High levels of future-obligated spend reduces employment optionality, which can have substantial long-term impact on a career.
-
-Know the pay structure for your role and those in your tech ladder.  In large firms, at entry/junior levels, total compensation is mostly base pay, with a 10-15% target bonus.  Senior ICs will see that rise to 25% and will be much higher as you move up mid- and senior- management.  Sales-related roles are fundamentally different base structure, and can be paid at different frequencies.
-
-Sell enough stock to cover gains and income tax immediately on grant. If the stock price falls you are exposed to gains without the corresponding assets to cover.
-
+Do this exercise fresh every 6-12 months as part of career maintenance.
