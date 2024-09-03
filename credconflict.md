@@ -10,7 +10,7 @@ Collaborate well in multi-stakeholder initiatives by delivering concrete documen
  Corporations are not built to deliver feedback to employees, so it can be vanishingly rare for mid-junior and senior personnel receive active feedback on incidents that damage their credibility.   Being retrospective, open to feedback, and leaving room to be wrong are critically important to all mid-junior and senior roles.  Be aware of how power dynamics break feedback loops in your organization, and use 1:1s and structured retrospectives to seek out feedback from all collaborators.  
 
 ### ambiguity
-Accounting for unknowns is a core element of analytic method and necessary for all management personnel, and most senior ICs.  Inability to account for ambiguity is immediately obvious and frequently irritating to executives.
+Accounting for unknowns is a defining element of analytic method and necessary for all management personnel, and most senior ICs.  Inability to account for ambiguity is immediately obvious and frequently irritating to executives.
 
 ### conflict
 Conflict is natural, necessary, and healthy in knowledge worker roles, but can be organizationally paralytic and personally off-putting.  This is solved with transparency and documentation.
