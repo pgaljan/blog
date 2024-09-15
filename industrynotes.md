@@ -1,11 +1,11 @@
 # industry notes
 
 ## 1. Tech Product firms
-### Large firms (FAANG, HPE, Alibaba, Adobe, Oracle, etc)
+### Large firms (FAANG, HPE, Adobe, Oracle, etc)
 Entry into large tech product firms is usually directly out of undergrad or graduate level intern programs.  Lateral entrants will usually come into the firm through the field (sales/service) or from acquisitions.  There is increasingly lower optionality for geography in large firms.  Laterals tend to hit glass ceilings at or around the executive level, but this is offset by exec-level pay packages for senior ICs and mid-level managers.
 
-### Mid-sized firms (Rubrik, NetApp, Pure, Veritas, etc)
-Mid-late startups, pre-IPO and mid-sized tech firms in high growth phase represent the greatest opportunity for mid-junior technologists, particularly in field-facing roles, which tend to be more valued in these firms. They generally offer the least optionality in terms work-life balance, but high growth gives opportunity across geographies, and competitive pay ranges.  High performing laterals will have equitable access to executive positions, which can be parlayed to executive scope in a larger firm.
+### Mid-sized firms (Rubrik, Atlassian, Zendesk, NetApp, etc)
+Mid-late startups, pre-IPO and mid-sized tech firms in high growth phase represent the greatest opportunity for mid-junior technologists, particularly in field-facing roles, which tend to be more valued in these firms. They generally offer the least optionality in terms work-life balance, but high growth gives opportunity across geographies, and competitive pay ranges.  High performing laterals will have more equitable access to executive positions, which can be parlayed to executive scope in a larger firm.
 
 ### Small firms 
 These startups are generally low pay and highly volatile, but offer unparalleled technical exposure.  Junior laterals can get early leadership and decision-making experience, while retaining and expanding technical depth.

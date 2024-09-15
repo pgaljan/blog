@@ -7,7 +7,7 @@ Unreasoned opinions silently destroy credibility, and generally should not be ex
 
 Collaborate well in multi-stakeholder initiatives by delivering concrete documentation and analysis.  Establish early what you will be delivering, and the timeline for doing so.  Avoid the temptation to slip into passive editor/reviewer role unless you are explicitly named as such.  Use those opportunities to set the bar for what you will be expecting from your colleagues.
 
- Corporations are not built to deliver feedback to employees, so it is vanishingly rare for mid-junior and senior personnel receive active feedback on incidents that damage their credibility.   Being retrospective, open to feedback, and leaving room to be wrong are critically important to all mid-junior and senior roles.  Be aware of how power dynamics break feedback loops in your organization, and use 1:1s and structured retrospectives to seek out feedback from all collaborators.  
+ Corporations are not built to deliver feedback to employees, so it is rare for mid-junior and senior personnel receive active feedback on incidents that damage their credibility.   Being retrospective, open to feedback, and leaving room to be wrong are critically important to all mid-junior and senior roles.  Be aware of how power dynamics break feedback loops in your organization, and use 1:1s and structured retrospectives to seek out feedback from all collaborators.  
 
 ### ambiguity
 Accounting for unknowns is a defining element of analytic method and necessary for all management personnel, and most senior ICs.  Inability to account for ambiguity is immediately obvious and frequently irritating to executives.
