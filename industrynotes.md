@@ -1,7 +1,7 @@
 # industry notes
 
 ## 1. Tech Product firms
-### Large firms (FAANG, HPE, Alibaba, Dell, etc)
+### Large firms (FAANG, HPE, Alibaba, Adobe, Oracle, etc)
 Entry into large tech product firms is usually directly out of undergrad or graduate level intern programs.  Lateral entrants will usually come into the firm through the field (sales/service) or from acquisitions.  There is increasingly lower optionality for geography in large firms.  Laterals tend to hit glass ceilings at or around the executive level, but this is offset by exec-level pay packages for senior ICs and mid-level managers.
 
 ### Mid-sized firms (Rubrik, NetApp, Pure, Veritas, etc)
