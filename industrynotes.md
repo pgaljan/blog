@@ -1,8 +1,7 @@
 # industry notes
 ## Targeting opportunities
-``` code
 It is important that you target your search.  In a normal economy, mid-junior tech opportunities are not publicly posted until an individual or small pool of individuals has been identified.  Use quarterly reports to identify a handful of growth firms, get familiar with the portfolio AND business, gain related certifications, attend and present at user groups and webinars, and publish related work.  Work mindfully to expand your professional network to include individuals at targeted firms.
-```
+
 ## 1. Tech Product firms
 ### Large firms (FAANG, HPE, Adobe, Oracle, etc)
 Entry into large tech product firms is usually directly out of undergrad or graduate level intern programs.  Lateral entrants will usually come into the firm through the field (sales/service) or from acquisitions.  There is increasingly lower optionality for geography in large firms.  Laterals tend to hit glass ceilings at or around the executive level, but this is offset by exec-level pay packages for senior ICs and mid-level managers.
