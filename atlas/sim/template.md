@@ -1,6 +1,6 @@
 # SystemAttributes
-| key | value |
-| -----: | :----- |
+| Key                       | Value                |
+| ------------------------: | ---------------------- |
 | name | Name |
 | resourceType | FTE, Opex, Capex |
 
@@ -8,20 +8,21 @@
 
 
 # Phases
-| phase | value |
-| ---: | :--- |
+| Key                       | Value                |
+| ------------------------: | ---------------------- |
 | Concept | |
 | Prototype | |
 | Develop | |
 | Sustain | |
 
 # Links
-| name | link |
-| -----: | :----- |
+| Key                       | Value                |
+| ------------------------: | ---------------------- |
 
 # Tags
-| key | value |
-| --- | --- |
+| Key                       | Value                |
+| ------------------------: | ---------------------- |
+
 
 # Test
 
