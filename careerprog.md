@@ -6,7 +6,7 @@ Most companies have a tech ladder, even if it's only one or two steps.  Domain-f
 Given the compensation overlap, it's common for a person move back and forth between management and IC although it's not always successful; great engineers often make bad managers, and it's easy for managers to lose technical depth.  
 
 | IC                       | Manager                |
-| ------------------------ | ---------------------- |
+| ------------------------: | ---------------------- |
 |                          | Executive              |
 | Fellow                   | SVP                    |
 | Distinguished            | VP                     |
