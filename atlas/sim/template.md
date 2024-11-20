@@ -1,4 +1,5 @@
 # SystemAttributes
+
 | Key                       | Value                |
 | ------------------------: | ---------------------- |
 | name                      | Name                  |
@@ -8,6 +9,7 @@
 
 
 # Phases
+
 | Key                       | Value                |
 | ------------------------: | ---------------------- |
 | Concept                   |                      |
@@ -16,22 +18,13 @@
 | Sustain                   |                      |
 
 # Links
+
 | Key                       | Value                |
 | ------------------------: | ---------------------- |
 |                    |                      |
 
 # Tags
+
 | Key                       | Value                |
 | ------------------------: | ---------------------- |
 |                    |                      |
-
-# Test2
-
-| IC                       | Manager                |
-| ------------------------: | ---------------------- |
-|                          | Executive              |
-| Fellow                   | SVP                    |
-| Distinguished            | VP                     |
-| Sr. Architect / Sr. Engr | Director / Sr Director |
-| Advisor / Sr Advisor     | Manager / Sr Manager   |
-| Early career             |                        |
